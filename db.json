@@ -1,24 +1,28 @@
 {
-  "persons":[
+  "produtos":[
     {
-      "name": "Arto Hellas",
-      "number": "040-123456",
+      "name": "Calça jeans feminina",
+      "codigo": "1001",
+      "preco": "20,00",
       "id": 1
     },
     {
-      "name": "Ada Lovelace",
-      "number": "39-44-5323523",
-      "id": 2
+      "name": "Calça jeans masculina",
+      "codigo": "1002",
+      "preco": "30,00",
+      "id": 1
     },
     {
-      "name": "Dan Abramov",
-      "number": "12-43-234345",
-      "id": 3
+      "name": "Calça jeans feminina infantil",
+      "codigo": "1003",
+      "preco": "25,00",
+      "id": 1
     },
     {
-      "name": "Mary Poppendieck",
-      "number": "39-23-6423122",
-      "id": 4
+      "name": "Calça jeans feminina",
+      "codigo": "1004",
+      "preco": "20,00",
+      "id": 1
     }
   ]
 }
