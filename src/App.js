@@ -28,8 +28,8 @@ class Search extends React.Component {
                   Array.isArray(result.produtos));
     const produtos = result.produtos.map((produto, index)=>
     <li key={index}>
-      Código do produto: {produto.codigo}.
-      Nome: {produto.name}.
+      Código do produto: {produto.codigo}.<br />
+      Nome: {produto.name}.<br />
       Preço: {produto.preco}.
     </li>)
     return (
