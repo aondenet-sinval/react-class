@@ -10,19 +10,41 @@
       "name": "Calça jeans masculina",
       "codigo": "1002",
       "preco": "30,00",
-      "id": 1
+      "id": 2
     },
     {
       "name": "Calça jeans feminina infantil",
       "codigo": "1003",
       "preco": "25,00",
-      "id": 1
+      "id": 3
     },
     {
       "name": "Calça jeans feminina",
       "codigo": "1004",
       "preco": "20,00",
+      "id": 4
+    }
+  ],
+  "servicos":[
+    {
+      "name": "Calça jeans feminina, pintura",
+      "preco": "20,00",
       "id": 1
+    },
+    {
+      "name": "Calça jeans masculina, aperto",
+      "preco": "30,00",
+      "id": 2
+    },
+    {
+      "name": "Calça jeans feminina infantil ajuste com reamnufatura e desenho",
+      "preco": "25,00",
+      "id": 3
+    },
+    {
+      "name": "Calça jeans feminina, concerto e colocação de acessórios",
+      "preco": "20,00",
+      "id": 4
     }
   ]
 }
